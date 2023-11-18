@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kodofish/ReleaseWorkshop#readme",
   "devDependencies": {
-    "husky": "^8.0.0"
+    "husky": "^8.0.0",
+    "jest": "^29.7.0"
   }
 }
