@@ -1,6 +1,6 @@
 {
   "name": "first-apple",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "release workshop demo",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,5 @@
     "husky": "^8.0.0",
     "jest": "^29.7.0",
     "semantic-release": "^22.0.8"
-    
   }
 }
