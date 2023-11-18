@@ -1,0 +1,19 @@
+{
+  "name": "first-apple",
+  "version": "0.0.0",
+  "description": "release workshop demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodofish/ReleaseWorkshop.git"
+  },
+  "author": "kodofish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodofish/ReleaseWorkshop/issues"
+  },
+  "homepage": "https://github.com/kodofish/ReleaseWorkshop#readme"
+}
